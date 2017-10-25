@@ -9,8 +9,8 @@ Application for notes
 
 Используемые технологии
 
-Сервер: Spring MVC REST Web Services CRUD with Hibernate (Maven, Tomcat)
-Клиент: Angular 4 with TypeScript
+1. Сервер: Spring MVC REST Web Services CRUD with Hibernate (Maven, Tomcat)
+2. Клиент: Angular 4 with TypeScript
 
 Функционал
 
