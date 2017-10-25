@@ -1,0 +1,4 @@
+com\mynotes\dao\NoteDAO.class
+com\mynotes\model\Note.class
+com\mynotes\controller\NoteController.class
+com\mynotes\dao\NoteDAOImpl.class
